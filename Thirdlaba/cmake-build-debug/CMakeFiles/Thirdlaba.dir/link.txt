@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Thirdlaba.dir/main.cpp.o -o Thirdlaba 

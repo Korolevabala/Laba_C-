@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Laba4.dir/main.cpp.o -o Laba4 
