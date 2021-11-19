@@ -1,3 +1,0 @@
-/home/perdomix/CLionProjects/Laba4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/perdomix/CLionProjects/Laba4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/perdomix/CLionProjects/Laba4/cmake-build-debug/CMakeFiles/Laba4.dir
